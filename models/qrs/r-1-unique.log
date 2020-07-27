@@ -1,0 +1,7 @@
+Arguments: /home/hackslash/.opam/default/bin/libra gibbs -m ../models/mnw/final-1-unique.mn -q query.csv -v -marg -mo r-1-unique.marg
+Reading time: 1.434272s
+-16.484121 392.753872
+-10.581478 0.000000
+-15.769430 0.000000
+avg = -14.278343 +/- 1.518611
+Total time: 394.188313s

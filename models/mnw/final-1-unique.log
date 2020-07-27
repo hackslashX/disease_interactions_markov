@@ -1,0 +1,13 @@
+Arguments: /home/hackslash/.opam/default/bin/libra mnlearnw -m ../models/mns/base-mn-1-unique.mn -i ../data/export/train.csv -o final-1-unique.mn -maxiter 500 -l1 0.001 -sd 0.1 -log final-1-unique.log -v
+Num variables = 19
+Num weights = 198544
+pll = -15.079339 (reg: 38.481730) (1.208442 s)
+pll = -19.712018 (reg: 33.839303) (1.211541 s)
+pll = -14.134303 (reg: 39.424329) (1.224567 s)
+pll = -12.498210 (reg: 41.061219) (1.208147 s)
+pll = -11.614566 (reg: 41.944305) (1.208444 s)
+pll = -11.134147 (reg: 42.423522) (1.221844 s)
+pll = -10.051385 (reg: 43.497574) (1.214856 s)
+LBFGS errcode = Stop
+PLL = -223098.772855
+Total time: 74.851992 seconds

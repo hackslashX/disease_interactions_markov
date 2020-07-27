@@ -1,0 +1,28 @@
+Arguments: /home/hackslash/.opam/default/bin/libra cl -i ../data/export/train.csv -o base-cl-1.bn -prior 1 -log base-cl-1.log -v
+Inferring schema from data: 0.015881 s
+Schema:
+2,2,2,3,3,4,2,2,2,2,2,2,2,2,2,2,2,2,3
+Collecting counts: 0.015712 s
+Computing MI: 0.001195 s
+Picking edges: 0.000110 s
+Creating BN: 0.000039 s
+
+Edge list:
+0 -> 15
+15 -> 5
+5 -> 10
+5 -> 6
+5 -> 7
+5 -> 12
+5 -> 13
+5 -> 2
+2 -> 3
+3 -> 18
+18 -> 1
+3 -> 4
+3 -> 8
+2 -> 17
+3 -> 16
+8 -> 14
+3 -> 9
+7 -> 11

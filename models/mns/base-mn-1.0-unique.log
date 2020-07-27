@@ -1,0 +1,1 @@
+Arguments: /home/hackslash/.opam/default/bin/libra dn2mn -uniq -m ../models/dns/base-dn-1.0.dn -o base-mn-1.0-unique.mn -i ../data/export/train.csv -log base-mn-1.0-unique.log -v

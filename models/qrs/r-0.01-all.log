@@ -1,0 +1,7 @@
+Arguments: /home/hackslash/.opam/default/bin/libra gibbs -m ../models/mnw/final-0.01-all.mn -q query.csv -v -marg -mo r-0.01-all.marg
+Reading time: 0.133943s
+-16.063395 29.462342
+-10.764666 0.000000
+-19.766647 0.000000
+avg = -15.531570 +/- 2.132867
+Total time: 29.596839s

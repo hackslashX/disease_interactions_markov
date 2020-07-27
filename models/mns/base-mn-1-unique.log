@@ -1,0 +1,6 @@
+Arguments: /home/hackslash/.opam/default/bin/libra dn2mn -uniq -m ../models/dns/base-dn-1.dn -o base-mn-1-unique.mn -i ../data/export/train.csv -log base-mn-1-unique.log -v
+Loading model: 0.036743 s
+Reading examples and orders: 0.054333 s
+Building MN: 8.265187 s
+Writing MN: 0.755840 s
+Total time: 9.057787 s
